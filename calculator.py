@@ -1,6 +1,6 @@
 print("\tWelcome To Python Based Calculator\n")
 num=input("\tEnter Your 1st Number\n")
-num2=input("\tnter Your 2nd Number\n")
+num2=input("\tEnter Your 2nd Number\n")
 operand=input("\tEnter Your Operand(+,*,-,/,=,%):\n")
 if operand=='+':
     print("The Addition of",num,"+",num2,":",int(num)+int(num2))
